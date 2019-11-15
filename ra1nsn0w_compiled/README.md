@@ -6,25 +6,7 @@ __*This is for tethered, 64-bit (A7 to A11) devices only.*__
 
 ---
 
-
-First things first.
-
-You're gonna need some dynamic libraries (dylibs).
-
-> libfragmentzip.dylib
-
-> libipatcher.dylib
-
-> liboffsetfinder.dylib
-
-> libimg4tool.dylib
-
-> libgeneral.dylib
-
-I've included these in the ra1nsn0w folder. *You're welcome.*
-
-You **could** run ra1nsn0w in the folder it's in, if you want. Or, you could copy the dylibs to /usr/local/lib, and run ra1nsn0w from wherever the hell you want. Up to you. 
-
+You don't need any dylibs for this.
 ---
 
 ***If you run into problems:***
