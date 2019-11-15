@@ -1,15 +1,15 @@
-##**ra1nsn0w - compiled!**
+**ra1nsn0w - compiled!**
 
-###***Runs in a macOS terminal.***
+***Runs in a macOS terminal.***
 __*This is for tethered, 64-bit (A7 to A11) devices only.*__
 
 
 ---
 
 
-#First things first.
+First things first.
 
-##You're gonna need some dynamic libraries (dylibs).
+You're gonna need some dynamic libraries (dylibs).
 
 > libfragmentzip.dylib
 
@@ -27,7 +27,7 @@ You **could** run ra1nsn0w in the folder it's in, if you want. Or, you could cop
 
 ---
 
-#If you run into problems:
+***If you run into problems:***
 1: Blame Tihmstar.
 
 2: Copy the error you get. **In full.**
