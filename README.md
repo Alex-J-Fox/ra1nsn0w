@@ -28,6 +28,7 @@ You **could** run ra1nsn0w in the folder it's in, if you want. Or, you could cop
 ---
 
 ***If you run into problems:***
+
 1: Blame Tihmstar.
 
 2: Copy the error you get. **In full.**
