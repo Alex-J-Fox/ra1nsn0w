@@ -9,7 +9,7 @@ __*This is for tethered, 64-bit (A7 to A11) devices only.*__
 
 ***First things first.***
 
-You don't need any dylibs. 
+You don't need any dylibs for this. 
 
 ---
 
